@@ -1,0 +1,4 @@
+      PMASS(1)=ABS(MNEU1)
+      PMASS(2)=ABS(MNEU1)
+      PMASS(3)=ABS(MZ)
+      PMASS(4)=ABS(MH01)

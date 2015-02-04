@@ -1,0 +1,95 @@
+ Warning: parameter RRd1x1 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRd2x2 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRd3x3 not found
+          setting it to default value   0.93873790000000001     
+ Warning: parameter RRd3x6 not found
+          setting it to default value   0.34463189999999999     
+ Warning: parameter RRd4x4 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRd5x5 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRd6x3 not found
+          setting it to default value  -0.34463189999999999     
+ Warning: parameter RRd6x6 not found
+          setting it to default value   0.93873790000000001     
+ Warning: parameter alp not found
+          setting it to default value  -0.11382520000000000     
+ Warning: parameter RmD21x1 not found
+          setting it to default value    273684.70000000001     
+ Warning: parameter RmD23x3 not found
+          setting it to default value    270262.00000000000     
+ Warning: parameter RmE21x1 not found
+          setting it to default value    18630.639999999999     
+ Warning: parameter RmE23x3 not found
+          setting it to default value    17967.630000000001     
+ Warning: parameter RmL21x1 not found
+          setting it to default value    38155.680000000000     
+ Warning: parameter RmL23x3 not found
+          setting it to default value    37828.690000000002     
+ Warning: parameter RmQ21x1 not found
+          setting it to default value    299836.70000000001     
+ Warning: parameter RmQ23x3 not found
+          setting it to default value    248765.39999999999     
+ Warning: parameter RmU21x1 not found
+          setting it to default value    280382.09999999998     
+ Warning: parameter RmU23x3 not found
+          setting it to default value    179137.10000000001     
+ Warning: parameter RRl1x1 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRl2x2 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRl3x3 not found
+          setting it to default value   0.28248719999999999     
+ Warning: parameter RRl3x6 not found
+          setting it to default value   0.95927110000000004     
+ Warning: parameter RRl4x4 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRl5x5 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRl6x3 not found
+          setting it to default value   0.95927110000000004     
+ Warning: parameter RRl6x6 not found
+          setting it to default value  -0.28248719999999999     
+ Warning: parameter RRn1x1 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRn2x2 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRn3x3 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter Rtd3x3 not found
+          setting it to default value   -110.69370000000001     
+ Warning: parameter Rte3x3 not found
+          setting it to default value   -25.401969999999999     
+ Warning: parameter Rtu3x3 not found
+          setting it to default value   -444.75250000000000     
+ Warning: parameter RMNS1x1 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RMNS2x2 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RMNS3x3 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRu1x1 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRu2x2 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRu3x3 not found
+          setting it to default value   0.55364500000000005     
+ Warning: parameter RRu3x6 not found
+          setting it to default value   0.83275279999999996     
+ Warning: parameter RRu4x4 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRu5x5 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RRu6x3 not found
+          setting it to default value   0.83275279999999996     
+ Warning: parameter RRu6x6 not found
+          setting it to default value  -0.55364500000000005     
+ Warning: parameter RCKM1x1 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RCKM2x2 not found
+          setting it to default value    1.0000000000000000     
+ Warning: parameter RCKM3x3 not found
+          setting it to default value    1.0000000000000000     
+  0.27657140488270915     

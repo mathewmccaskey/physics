@@ -1,0 +1,285 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+dsqmix 1 1 RRd1x1
+
+dsqmix 2 2 RRd2x2
+
+dsqmix 3 3 RRd3x3
+
+dsqmix 3 6 RRd3x6
+
+dsqmix 4 4 RRd4x4
+
+dsqmix 5 5 RRd5x5
+
+dsqmix 6 3 RRd6x3
+
+dsqmix 6 6 RRd6x6
+
+fralpha 1 alp
+
+hmix 1 RMUH
+
+hmix 2 tb
+
+hmix 4 MA2
+
+mass 5 MB
+
+mass 6 MT
+
+mass 15 Mta
+
+mass 23 MZ
+
+mass 24 MW
+
+mass 25 MH01
+
+mass 35 MH02
+
+mass 36 MA0
+
+mass 37 MH
+
+mass 1000001 Msd1
+
+mass 1000002 Msu1
+
+mass 1000005 Msd3
+
+mass 1000006 Msu3
+
+mass 1000011 Msl1
+
+mass 1000012 Msn1
+
+mass 1000015 Msl3
+
+mass 1000016 Msn3
+
+mass 1000021 Mgo
+
+mass 1000022 Mneu1
+
+mass 1000023 Mneu2
+
+mass 1000024 Mch1
+
+mass 1000025 Mneu3
+
+mass 1000035 Mneu4
+
+mass 1000037 Mch2
+
+mass 2000001 Msd4
+
+mass 2000002 Msu4
+
+mass 2000005 Msd6
+
+mass 2000006 Msu6
+
+mass 2000011 Msl4
+
+mass 2000015 Msl6
+
+msd2 1 1 RmD21x1
+
+msd2 3 3 RmD23x3
+
+mse2 1 1 RmE21x1
+
+mse2 3 3 RmE23x3
+
+msl2 1 1 RmL21x1
+
+msl2 3 3 RmL23x3
+
+msoft 1 RMx1
+
+msoft 2 RMx2
+
+msoft 3 RMx3
+
+msoft 21 mHd2
+
+msoft 22 mHu2
+
+msq2 1 1 RmQ21x1
+
+msq2 3 3 RmQ23x3
+
+msu2 1 1 RmU21x1
+
+msu2 3 3 RmU23x3
+
+nmix 1 1 RNN1x1
+
+nmix 1 2 RNN1x2
+
+nmix 1 3 RNN1x3
+
+nmix 1 4 RNN1x4
+
+nmix 2 1 RNN2x1
+
+nmix 2 2 RNN2x2
+
+nmix 2 3 RNN2x3
+
+nmix 2 4 RNN2x4
+
+nmix 3 1 RNN3x1
+
+nmix 3 2 RNN3x2
+
+nmix 3 3 RNN3x3
+
+nmix 3 4 RNN3x4
+
+nmix 4 1 RNN4x1
+
+nmix 4 2 RNN4x2
+
+nmix 4 3 RNN4x3
+
+nmix 4 4 RNN4x4
+
+selmix 1 1 RRl1x1
+
+selmix 2 2 RRl2x2
+
+selmix 3 3 RRl3x3
+
+selmix 3 6 RRl3x6
+
+selmix 4 4 RRl4x4
+
+selmix 5 5 RRl5x5
+
+selmix 6 3 RRl6x3
+
+selmix 6 6 RRl6x6
+
+sminputs 1 aEWM1
+
+sminputs 3 aS
+
+snumix 1 1 RRn1x1
+
+snumix 2 2 RRn2x2
+
+snumix 3 3 RRn3x3
+
+td 3 3 Rtd3x3
+
+te 3 3 Rte3x3
+
+tu 3 3 Rtu3x3
+
+umix 1 1 RUU1x1
+
+umix 1 2 RUU1x2
+
+umix 2 1 RUU2x1
+
+umix 2 2 RUU2x2
+
+upmns 1 1 RMNS1x1
+
+upmns 2 2 RMNS2x2
+
+upmns 3 3 RMNS3x3
+
+usqmix 1 1 RRu1x1
+
+usqmix 2 2 RRu2x2
+
+usqmix 3 3 RRu3x3
+
+usqmix 3 6 RRu3x6
+
+usqmix 4 4 RRu4x4
+
+usqmix 5 5 RRu5x5
+
+usqmix 6 3 RRu6x3
+
+usqmix 6 6 RRu6x6
+
+vckm 1 1 RCKM1x1
+
+vckm 2 2 RCKM2x2
+
+vckm 3 3 RCKM3x3
+
+vmix 1 1 RVV1x1
+
+vmix 1 2 RVV1x2
+
+vmix 2 1 RVV2x1
+
+vmix 2 2 RVV2x2
+
+yd 3 3 Ryd3x3
+
+ye 3 3 Rye3x3
+
+yu 3 3 Ryu3x3
+
+decay 6 WT
+
+decay 23 WZ
+
+decay 24 WW
+
+decay 25 WH01
+
+decay 35 WH02
+
+decay 36 WA0
+
+decay 37 WH
+
+decay 1000001 Wsd1
+
+decay 1000002 Wsu1
+
+decay 1000005 Wsd3
+
+decay 1000006 Wsu3
+
+decay 1000011 Wsl1
+
+decay 1000012 Wsn1
+
+decay 1000015 Wsl3
+
+decay 1000016 Wsn3
+
+decay 1000021 Wgo
+
+decay 1000023 Wneu2
+
+decay 1000024 Wch1
+
+decay 1000025 Wneu3
+
+decay 1000035 Wneu4
+
+decay 1000037 Wch2
+
+decay 2000001 Wsd4
+
+decay 2000002 Wsu4
+
+decay 2000005 Wsd6
+
+decay 2000006 Wsu6
+
+decay 2000011 Wsl4
+
+decay 2000015 Wsl6

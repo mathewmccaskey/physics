@@ -1,0 +1,15 @@
+default mssm param card - 0.27657
+
+SPS parameter Cards:
+sps1a_slha.out - 0.2800
+sps1b_slha.out - 0.4739
+sps2_slha.out - 8.2573
+sps3_slha.out - 0.1265
+sps4_slha.out - 0.0600
+sps5_slha.out - 0.468
+sps9_slha.out - 0.00141
+
+mssm_model_reading:
+suspect_sps1a.out - 0.27986
+suspect2_lha.out - 0.1529
+suspect_point2.out - 0.24284
